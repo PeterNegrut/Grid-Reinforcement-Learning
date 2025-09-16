@@ -1,4 +1,4 @@
-from collections import defaultdict
+#Main execution file
 from Agent import *
 from world import Environment
 from tqdm import tqdm  # Progress bar
